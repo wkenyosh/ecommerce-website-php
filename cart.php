@@ -128,7 +128,7 @@ $total += $sub_total;
 
 <td>
 
-R$<?php echo $only_price; ?>.00
+R$<?php echo $only_price; ?>
 
 </td>
 
@@ -140,7 +140,7 @@ R$<?php echo $only_price; ?>.00
 
 <td>
 
-R$<?php echo $sub_total; ?>.00
+R$<?php echo $sub_total; ?>
 
 </td>
 
@@ -156,7 +156,7 @@ R$<?php echo $sub_total; ?>.00
 
 <th colspan="5"> Total </th>
 
-<th colspan="2"> R$<?php echo $total; ?>.00 </th>
+<th colspan="2"> R$<?php echo $total; ?> </th>
 
 </tr>
 
@@ -509,7 +509,7 @@ Os custos de envio e adicionais são calculados com base nos valores que você i
 
 <td>Subtotal </td>
 
-<th> R$<?php echo $total; ?>.00 </th>
+<th> R$<?php echo $total; ?></th>
 
 </tr>
 
@@ -519,7 +519,7 @@ Os custos de envio e adicionais são calculados com base nos valores que você i
 
 <td>Taxa</td>
 
-<th>R$0.00</th>
+<th>R$00.00</th>
 
 </tr>
 
@@ -527,7 +527,7 @@ Os custos de envio e adicionais são calculados com base nos valores que você i
 
 <td>Total</td>
 
-<th>R$<?php echo $total; ?>.00</th>
+<th>R$<?php echo $total; ?></th>
 
 </tr>
 
