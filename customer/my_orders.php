@@ -7,7 +7,7 @@
 
 <p class="text-muted" >
 
-Se você tiver alguma dúvida, sinta -se à vontade para<a href="../contact.php" > nos contactar,</a> Nosso centro de atendimento ao cliente está trabalhando para você 24/7.
+Se você tiver alguma dúvida, sinta -se à vontade para<a href="../contact.php" > nos contactar.</a> Nosso centro de atendimento ao cliente está trabalhando para você 24/7.
 
 
 </p>

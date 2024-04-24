@@ -54,7 +54,7 @@ if(!empty($customer_confirm_code)){
 
 <div class="alert alert-danger"><!-- alert alert-danger Starts -->
 
-<strong> Atenção! </strong> Confirme seu e -mail e se você não recebeu seu e -mail de confirmação
+<strong> Atenção! </strong> Confirme seu e -mail e se você não recebeu seu e -mail de confirmação,
 <a href="my_account.php?send_email" class="alert-link">
 
 Envie email novamente
